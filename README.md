@@ -1,5 +1,11 @@
 # Exerc-ciosJavaScript
 
+***
+
+80 exercícios em Lógica de Programação feitos em Linguagem Java Script
+
+***
+
 ```bash
 function meuEscopo () {
   const form = document.querySelector('.form');

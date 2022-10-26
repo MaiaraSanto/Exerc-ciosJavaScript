@@ -2,7 +2,7 @@
 
 ***
 
-80 exercícios em Lógica de Programação feitos em Linguagem Java Script
+80 exercícios em Lógica de Programação feitos em Linguagem Java Script.
 
 ***
 
